@@ -1,0 +1,17 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch== 1.8.1+cpu
+Flask==2.1.0
+Flask-RESTful
+Flask-JWT-Extended
+Flask-SQLAlchemy
+uwsgi
+psycopg2
+pydrive2
+marshmallow
+numpy
+flask-uploads
+flask-marshmallow
+marshmallow-sqlalchemy
+python-dotenv
+opencv-contrib-python-headless
+Werkzeug>=2.0
